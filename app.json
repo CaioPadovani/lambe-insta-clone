@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "lambe",
+    "slug": "lambe",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
