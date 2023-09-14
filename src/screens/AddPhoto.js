@@ -3,7 +3,7 @@ import { StyleSheet, FlatList, View } from "react-native";
 import Header from "../components/Header";
 import Post from "../components/Post";
 
-class Feed extends Component {
+class AddPhoto extends Component {
   state = {
     posts: [
       {
@@ -72,4 +72,4 @@ const styles = StyleSheet.create({
   }
 })
 
-export default Feed
+export default AddPhoto
